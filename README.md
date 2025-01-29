@@ -65,7 +65,50 @@ Creating a student registration form using Python and Tkinter is a great project
        Select the course and update the coursename and click update and the course name will be updated and displayed in the list below.<br/>
        
    <b>Reset: </b><br/>
-       Clear the fields
+       The "Reset" button will clear all the fields.
      
  <b>2nd Step: Enter the Student Registration Details:</b> <br/>
+
+  <b>Add Student</b> <br/>
+          key in the "Student Name" <br/>
+          Select the "Gender" <br/>
+          Enter the "Email Id" <br/>
+          Enter the "Mobile" <br/>
+          Select the desired "Course" <br/>
+          Enter the "Fees" <br/>
+    and click "Add" Student details will be added and displayed in the list below.
+       
+   <b>Update: </b><br/>
+       Select a student from the list, update the necessary details, and click "Update." The student's information will be updated and reflected in the list below.<br/>
+
+   <b>Delete: </b><br/>
+       Select a student from the list and click "Delete." A confirmation message will appear asking whether you want to delete the record. If you choose "Yes," the student's details will be deleted. If you 
+       choose "No," the details will remain, and the list will be displayed again.<br/>
+       
+   <b>Reset: </b><br/>
+       The "Reset" button will clear all the fields.
+       
+   <b>Exit: </b><br/>
+     Clicking "Exit" will prompt a confirmation message asking if you really want to close the window. If you select "Yes," the window will close. If you select "No," it will return to the previous state, and 
+     the details will remain displayed in the list below.
+
+  <b>Search All: </b><br/>
+     You can search for a record, and if it exists, it will be displayed; otherwise, no results will be shown.
+  
+  
+  ![image](https://github.com/user-attachments/assets/5bcc9f3a-83cb-4058-9ceb-5cdf4d0968c7)
+
+ ### 5. Storing the Data
+In this project, I have used a Database (MySQL) to store the Course Details and Student Registration Information. <br/>
+
+<b>Course Table<b>
+
+![image](https://github.com/user-attachments/assets/66cb618c-81eb-479c-a257-34669f09321b)
+
+
+<b>Student Registration Table </b><br/>
+
+![image](https://github.com/user-attachments/assets/ec6593ed-fcfd-4512-b9ca-b5353a04fad6)
+
+
 
