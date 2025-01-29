@@ -22,3 +22,9 @@ Tkinter is bundled with Python, so there's no need to install it separately, mak
 ### Examples:
 ![image](https://github.com/user-attachments/assets/8803f620-1617-4b91-8cea-e369b486abe2)
 
+### Documentation
+##### For more details on how to use Tkinter, check the official Tkinter documentation 
+
+##### https://docs.python.org/3/library/tkinter.html
+
+##### This should give users a clear idea of what Tkinter is and how to get started with it. You can adjust the content depending on the specific context of your project, such as adding details on more advanced features if necessary.
