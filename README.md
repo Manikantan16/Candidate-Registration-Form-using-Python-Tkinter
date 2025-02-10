@@ -35,9 +35,9 @@ Tkinter is bundled with Python, so there's no need to install it separately, mak
 
 Creating a student registration form using Python and Tkinter is a great project to help you learn about GUI development and handling user input. Tkinter is the standard GUI library in Python and provides a simple way to create windows, labels, buttons, text fields, and other interactive components.
 
-#####  Here's an overview of the steps involved in creating a student registration form using Python and Tkinter:
+###  Here's an overview of the steps involved in creating a student registration form using Python and Tkinter:
 ### 1. Setting up the environment
-  This project is developed in Vscode (python + tkinter GUI) and mySql as bakend
+  This project is developed in Vscode (python + tkinter GUI) and mySql as backend.
 
 ### 2. Designing the Registration Form Layout
   The registration form typically includes:
@@ -59,10 +59,10 @@ Creating a student registration form using Python and Tkinter is a great project
  
   <b> 1st step: Add the Course Details: </b><br/><br/>
     <b>Add</b> <br/>
-          key in the "Course Name" and click "Add" course name will be added and displayed in the list below.
+          key in the "Course Name" and click "Add" course name will be added and displayed in the list/treeview below.
        
    <b>Update: </b><br/>
-       Select the course and update the coursename and click update and the course name will be updated and displayed in the list below.<br/>
+       Select the course and update the coursename and click update and the course name will be updated and displayed in the list/treeview below.<br/>
        
    <b>Reset: </b><br/>
        The "Reset" button will clear all the fields.
@@ -76,21 +76,22 @@ Creating a student registration form using Python and Tkinter is a great project
           Enter the "Mobile" <br/>
           Select the desired "Course" <br/>
           Enter the "Fees" <br/>
-    and click "Add" Student details will be added and displayed in the list below.
+    and click "Add" Student details will be added and displayed in the list/treeview below.
        
    <b>Update: </b><br/>
-       Select a student from the list, update the necessary details, and click "Update." The student's information will be updated and reflected in the list below.<br/>
+       Select a student from the list, update the necessary details, and click "Update." The student's information will be updated and reflected in the list/ 
+       treeview below.<br/>
 
    <b>Delete: </b><br/>
-       Select a student from the list and click "Delete." A confirmation message will appear asking whether you want to delete the record. If you choose "Yes," the student's details will be deleted. If you 
-       choose "No," the details will remain, and the list will be displayed again.<br/>
+       Select a student from the list and click "Delete." A confirmation message will appear asking whether you want to delete the record. If you choose "Yes," the 
+       student's details will be deleted. If you choose "No," the details will remain, and the list/treeview will be displayed again.<br/>
        
    <b>Reset: </b><br/>
        The "Reset" button will clear all the fields.
        
    <b>Exit: </b><br/>
-     Clicking "Exit" will prompt a confirmation message asking if you really want to close the window. If you select "Yes," the window will close. If you select "No," it will return to the previous state, and 
-     the details will remain displayed in the list below.
+     Clicking "Exit" will prompt a confirmation message asking if you really want to close the window. If you select "Yes," the window will close. If you select 
+    "No," it will return to the previous state, and the details will remain displayed in the list/treeview below.
 
   <b>Search All: </b><br/>
      You can search for a record, and if it exists, it will be displayed; otherwise, no results will be shown.
