@@ -69,7 +69,7 @@ Creating a student registration form using Python and Tkinter is a great project
      
  <b>2nd Step: Enter the Student Registration Details:</b> <br/>
 
-  <b>Add Student</b> <br/>
+  <b>Add Student:</b> <br/>
           key in the "Student Name" <br/>
           Select the "Gender" <br/>
           Enter the "Email Id" <br/>
@@ -99,7 +99,7 @@ Creating a student registration form using Python and Tkinter is a great project
   ![image](https://github.com/user-attachments/assets/5bcc9f3a-83cb-4058-9ceb-5cdf4d0968c7)
 
  ### 5. Storing the Data
-In this project, I have used a Database (MySQL) to store the Course Details and Student Registration Information. <br/>
+In this project, I have used **MySql** database to store the Course Details and Student Registration Information. <br/>
 
 <b>Course Table<b>
 
