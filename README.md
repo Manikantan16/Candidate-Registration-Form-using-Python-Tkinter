@@ -96,11 +96,12 @@ Creating a candidate registration form using Python and Tkinter is a great proje
   <b>Search All: </b><br/>
      You can search for a record, and if it exists, it will be displayed; otherwise, no results will be shown.
   
+  ![Candidate_Registration](https://github.com/user-attachments/assets/32a540ff-d124-4ae6-87a5-1987011decc1)
+
   
-  ![image](https://github.com/user-attachments/assets/5bcc9f3a-83cb-4058-9ceb-5cdf4d0968c7)
 
  ### 5. Storing the Data
-In this project, I have used **MySql** database to store the Course Details and Student Registration Information. <br/>
+In this project, I have used **MySql** database to store the Course Details and Candidate Registration Information. <br/>
 
 <b>Course Table<b>
 
