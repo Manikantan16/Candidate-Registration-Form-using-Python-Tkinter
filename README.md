@@ -52,7 +52,8 @@ Creating a candidate registration form using Python and Tkinter is a great proje
 
 ### 3. Implementing the Form using Tkinter
 
-![image](https://github.com/user-attachments/assets/bc9cc76e-4ef0-428e-b5c0-a45faffe6014)
+![Screenshot 2025-02-25 085042](https://github.com/user-attachments/assets/a612f89b-6cbd-428d-8aad-3d812c6cee84)
+
 
 ### 4.Explanation:
  Widgets: Label, Entry, comboxbox,Image, treeview, frame and buttons are used to create various parts of the form. 
